@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+weather_rag/
+
+# Environment variables
+.env
+.env.* 
